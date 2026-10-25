@@ -29,5 +29,6 @@
     <tr><td><b>TweetFeed Live</b></td><td><code>https://tweetfeed.live/</code></td><td align="center">200</td><td>Real-time threat feed harvesting IoCs (URLs, IPs, hashes) shared on Twitter/X by infosec researchers.</td></tr>
     <tr><td><b>Bazaar abuse.ch</b></td><td><code>https://bazaar.abuse.ch/</code></td><td align="center">200</td><td>Community repository for sharing and analyzing fresh malware samples with YARA rule matching.</td></tr>
     <tr><td><b>InQuest Labs</b></td><td><code>https://labs.inquest.net/</code></td><td align="center">200</td><td>Interactive platform providing deep file inspection, threat analytics, and heuristic IoC detection.</td></tr>
+    <tr><td><b>ICHI Internet Cyber Health Index</b></td><td><code>https://ichi.global/</code></td><td align="center">200</td><td>Free, source-transparent daily barometer of internet cyber health aggregating 90+ threat intelligence, internet noise, and security feed sources into a single scored index. Outside-in directional signal; not a substitute for internal telemetry.</td></tr>
   </tbody>
 </table>
